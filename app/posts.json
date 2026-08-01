@@ -1,0 +1,24 @@
+[
+  {
+    "id":1,
+    "user":"Vinh Đậu",
+    "avatar":"/avatar/user1.png",
+    "content":"Hôm nay mình học được 30 từ HSK 3 🔥",
+    "likes":15,
+    "comments":[
+      "Cố lên!",
+      "Mình cũng đang học HSK3"
+    ]
+  },
+
+  {
+    "id":2,
+    "user":"小明",
+    "avatar":"/avatar/user2.png",
+    "content":"分享学习中文的方法",
+    "likes":8,
+    "comments":[
+      "很棒!"
+    ]
+  }
+]
