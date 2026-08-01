@@ -98,21 +98,38 @@ model Word {
 
 }
 
-
 model Video {
 
  id String @id @default(cuid())
 
  title String
 
+ thumbnail String?
+
  url String
 
  level String
 
- description String?
+ lesson Int
+
+ createdAt DateTime @default(now())
+
+ views Int @default(0)
 
 }
 
+
+model WatchedVideo {
+
+ id String @id @default(cuid())
+
+ userId String
+
+ videoId String
+
+ completed Boolean @default(false)
+
+}
 
 model Question {
 
