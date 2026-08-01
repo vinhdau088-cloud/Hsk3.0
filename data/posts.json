@@ -2,6 +2,12 @@
   {
     "id": 1,
     "user": "Vinh",
-    "content": "Chào mừng đến ChineseMaster AI"
+    "avatar": "/avatar.png",
+    "content": "Chào mừng đến ChineseMaster AI",
+    "likes": 0,
+    "comments": [
+      "Chúc bạn học tốt",
+      "HSK cố lên!"
+    ]
   }
 ]
