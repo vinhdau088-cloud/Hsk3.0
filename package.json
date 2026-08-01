@@ -1,20 +1,17 @@
 {
-  "name": "chinesemaster-ai",
+  "name": "hsk3",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
     "next": "15.4.5",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
-  },
-  "devDependencies": {
-    "eslint": "^9",
-    "eslint-config-next": "15.4.5"
+    "react-dom": "19.1.0",
+    "prisma": "^6.13.0",
+    "@prisma/client": "^6.13.0"
   }
 }
