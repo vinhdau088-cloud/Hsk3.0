@@ -1,0 +1,19 @@
+[
+  {
+    "id":1,
+    "level":"HSK1",
+    "title":"HSK1 Bài 1 - Chào hỏi",
+    "type":"youtube",
+    "url":"https://www.youtube.com/embed/xxxxx",
+    "description":"Học câu chào hỏi cơ bản"
+  },
+
+  {
+    "id":2,
+    "level":"TOCFL A1",
+    "title":"TOCFL A1 Nghe bài 1",
+    "type":"mp4",
+    "url":"/videos/tocfl-a1.mp4",
+    "description":"Luyện nghe tiếng Trung phồn thể"
+  }
+]
