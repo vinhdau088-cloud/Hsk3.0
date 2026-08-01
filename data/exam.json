@@ -1,0 +1,33 @@
+[
+  {
+    "id":1,
+    "type":"choice",
+    "question":"你好 có nghĩa là gì?",
+    "options":[
+      "Xin chào",
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin lỗi"
+    ],
+    "answer":"Xin chào"
+  },
+
+  {
+    "id":2,
+    "type":"translate",
+    "question":"Dịch sang tiếng Trung: Tôi học tiếng Trung",
+    "answer":"我学习中文"
+  },
+
+  {
+    "id":3,
+    "type":"order",
+    "question":"Sắp xếp câu:",
+    "words":[
+      "学习",
+      "我",
+      "中文"
+    ],
+    "answer":"我学习中文"
+  }
+]
