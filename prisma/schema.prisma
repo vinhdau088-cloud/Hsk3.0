@@ -76,7 +76,57 @@ model Exam {
 
 }
 
+model Word {
 
+ id String @id @default(cuid())
+
+ hanzi String
+
+ pinyin String
+
+ zhuyin String?
+
+ meaning String
+
+ example String?
+
+ level String
+
+ type String
+
+ createdAt DateTime @default(now())
+
+}
+
+
+model Video {
+
+ id String @id @default(cuid())
+
+ title String
+
+ url String
+
+ level String
+
+ description String?
+
+}
+
+
+model Question {
+
+ id String @id @default(cuid())
+
+ question String
+
+ answer String
+
+ options String
+
+ level String
+
+}
 
 
 model Post {
