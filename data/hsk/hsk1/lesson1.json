@@ -1,0 +1,46 @@
+{
+  "id":1,
+
+  "title":"HSK1 Bài 1 - Xin chào",
+
+  "vocabulary":[
+
+    {
+      "hanzi":"你好",
+      "pinyin":"nǐ hǎo",
+      "meaning":"Xin chào"
+    },
+
+    {
+      "hanzi":"谢谢",
+      "pinyin":"xiè xie",
+      "meaning":"Cảm ơn"
+    }
+
+  ],
+
+
+  "grammar":[
+
+    {
+      "title":"Cấu trúc 是",
+      "content":"A 是 B = A là B"
+    }
+
+  ],
+
+
+  "video":
+  "/videos/hsk1-lesson1.mp4",
+
+
+  "exercise":[
+
+    {
+      "question":"你好 nghĩa là gì?",
+      "answer":"Xin chào"
+    }
+
+  ]
+
+}
