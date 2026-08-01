@@ -9,7 +9,7 @@ export default function Community() {
     : [];
 
   return (
-    <main style={{ padding: 25 }}>
+    <main style={{padding:25}}>
 
       <h1>
         👥 Cộng đồng ChineseMaster
@@ -17,26 +17,16 @@ export default function Community() {
 
       <CreatePost />
 
-      <br />
-
       <h2>
         🔥 Bài viết mới
       </h2>
 
-      {
-        posts.length > 0 ? (
-          posts.map((post) => (
-            <PostCard
-              key={post.id}
-              post={post}
-            />
-          ))
-        ) : (
-          <p>
-            Chưa có bài viết nào
-          </p>
-        )
-      }
+      {posts.map((post) => (
+        <PostCard
+          key={post.id}
+          post={post}
+        />
+      ))}
 
     </main>
   );
