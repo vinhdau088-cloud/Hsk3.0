@@ -18,7 +18,7 @@ export default function FlashPage() {
 
       <FlashCard word={word} />
 
-      <FlashToolbar />
+      <FlashToolbar word={word} />
     </main>
   );
 }
