@@ -1,11 +1,15 @@
 import Navbar from "@/components/Navbar";
-
+import Sidebar from "@/components/Sidebar";
+import Dashboard from "@/components/Dashboard";
 
 export default function Home(){
 
 return (
+  <main style={{padding:20}}>
+    
 
 <>
+  <Sidebar/>
 
 <Navbar/>
 
@@ -87,6 +91,8 @@ Học tiếng Trung HSK & TOCFL mỗi ngày
 
 </div>
 
+<Dashboard/>
+  
 
 </main>
 
