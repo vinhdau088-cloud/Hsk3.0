@@ -1,0 +1,25 @@
+[
+  {
+    "id":1,
+    "lesson":1,
+    "hanzi":"你好",
+    "traditional":"你好",
+    "zhuyin":"ㄋㄧˇ ㄏㄠˇ",
+    "pinyin":"nǐ hǎo",
+    "meaning":"Xin chào",
+    "example":"你好嗎？",
+    "translate":"Bạn khỏe không?"
+  },
+
+  {
+    "id":2,
+    "lesson":1,
+    "hanzi":"謝謝",
+    "traditional":"謝謝",
+    "zhuyin":"ㄒㄧㄝˋ ㄒㄧㄝ˙",
+    "pinyin":"xiè xie",
+    "meaning":"Cảm ơn",
+    "example":"謝謝你的幫助。",
+    "translate":"Cảm ơn sự giúp đỡ của bạn."
+  }
+]
