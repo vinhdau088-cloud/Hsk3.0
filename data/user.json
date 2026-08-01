@@ -1,0 +1,25 @@
+{
+  "name":"Vinh Đậu",
+  "avatar":"/avatar/default.png",
+  "level":"HSK 3",
+  "tocfl":"TOCFL A2",
+  "xp":8520,
+  "streak":25,
+  "wordsLearned":1200,
+  "progress":75,
+  "badges":[
+    "🥇 1000 từ",
+    "🔥 30 ngày",
+    "🎧 Nghe tốt"
+  ],
+  "examHistory":[
+    {
+      "name":"HSK 1",
+      "score":"95%"
+    },
+    {
+      "name":"HSK 2",
+      "score":"88%"
+    }
+  ]
+}
