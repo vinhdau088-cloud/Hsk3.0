@@ -1,0 +1,25 @@
+[
+  {
+    "id":1,
+    "lesson":1,
+    "hanzi":"你好",
+    "pinyin":"nǐ hǎo",
+    "zhuyin":"ㄋㄧˇ ㄏㄠˇ",
+    "meaning":"Xin chào",
+    "example":"你好，我叫王明。",
+    "translate":"Xin chào, tôi tên Vương Minh.",
+    "audio":"/audio/hsk1/001.mp3"
+  },
+
+  {
+    "id":2,
+    "lesson":1,
+    "hanzi":"谢谢",
+    "pinyin":"xiè xie",
+    "zhuyin":"ㄒㄧㄝˋ ㄒㄧㄝ˙",
+    "meaning":"Cảm ơn",
+    "example":"谢谢你。",
+    "translate":"Cảm ơn bạn.",
+    "audio":"/audio/hsk1/002.mp3"
+  }
+]
